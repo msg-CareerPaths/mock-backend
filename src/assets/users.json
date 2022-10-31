@@ -1,0 +1,23 @@
+{
+  "de96921d-2f8d-46e7-8061-31468180de96": {
+    "id": "de96921d-2f8d-46e7-8061-31468180de96",
+    "username": "doej",
+    "password": "password",
+    "fullName": "John Doe",
+    "roles": ["user", "customer"]
+  },
+  "bacb89d7-9070-426f-a662-facb538c8da9": {
+    "id": "bacb89d7-9070-426f-a662-facb538c8da9",
+    "username": "blackj",
+    "password": "12345678",
+    "fullName": "Jack Black",
+    "roles": ["user", "admin"]
+  },
+  "b187f693-6517-4555-bb74-714b35a7e792": {
+    "id": "b187f693-6517-4555-bb74-714b35a7e792",
+    "username": "whiteb",
+    "password": "abcdefgh",
+    "fullName": "Ben White",
+    "roles": ["user"]
+  }
+}

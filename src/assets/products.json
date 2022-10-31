@@ -1,0 +1,258 @@
+{
+  "7ed8b2fa-0d7f-4dab-a01e-5583841e0469": {
+    "id": "7ed8b2fa-0d7f-4dab-a01e-5583841e0469",
+    "name": "Notebook Basic 15",
+    "category": "Laptops",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1000.jpg",
+    "price": 956,
+    "description": "Notebook Basic 15 with 2,80 GHz quad core, 15\" LCD, 4 GB DDR3 RAM, 500 GB Hard Disc, Windows 8 Pro"
+  },
+  "6a5865a4-1dfd-46cf-8958-2a8950d5789a": {
+    "id": "6a5865a4-1dfd-46cf-8958-2a8950d5789a",
+    "name": "Notebook Basic 17",
+    "category": "Laptops",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1001.jpg",
+    "price": 1249,
+    "description": "Notebook Basic 17 with 2,80 GHz quad core, 17\" LCD, 4 GB DDR3 RAM, 500 GB Hard Disc, Windows 8 Pro"
+  },
+  "caf385cd-4b16-49dd-ae35-e1fa5b02c412": {
+    "id": "caf385cd-4b16-49dd-ae35-e1fa5b02c412",
+    "name": "Notebook Basic 18",
+    "category": "Laptops",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1002.jpg",
+    "price": 1570,
+    "description": "Notebook Basic 18 with 2,80 GHz quad core, 18\" LCD, 8 GB DDR3 RAM, 1000 GB Hard Disc, Windows 8 Pro"
+  },
+  "f3ae3972-a881-4c78-b4d1-4f18c90be160": {
+    "id": "f3ae3972-a881-4c78-b4d1-4f18c90be160",
+    "name": "Notebook Basic 19",
+    "category": "Laptops",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1003.jpg",
+    "price": 1650,
+    "description": "Notebook Basic 19 with 2,80 GHz quad core, 19\" LCD, 8 GB DDR3 RAM, 1000 GB Hard Disc, Windows 8 Pro"
+  },
+  "d40e1503-04ef-4d22-8b55-ce455efaf775": {
+    "id": "d40e1503-04ef-4d22-8b55-ce455efaf775",
+    "name": "ITelO Vault",
+    "category": "Accessories",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1007.jpg",
+    "price": 299,
+    "description": "Digital Organizer with State-of-the-Art Storage Encryption"
+  },
+  "2cf31364-5ba7-41b7-8cbb-659d3e8cca99": {
+    "id": "2cf31364-5ba7-41b7-8cbb-659d3e8cca99",
+    "name": "Notebook Professional 15",
+    "category": "Accessories",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1010.jpg",
+    "price": 1999,
+    "description": "Notebook Professional 15 with 2,80 GHz quad core, 15\" Multitouch LCD, 8 GB DDR3 RAM, 500 GB SSD - DVD-Writer (DVD-R/+R/-RW/-RAM),Windows 8 Pro"
+  },
+  "314f7019-e686-48a6-add3-928c8552c6b2": {
+    "id": "314f7019-e686-48a6-add3-928c8552c6b2",
+    "name": "Notebook Professional 17",
+    "category": "Laptops",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1011.jpg",
+    "price": 2299,
+    "description": "Notebook Professional 17 with 2,80 GHz quad core, 17\" Multitouch LCD, 8 GB DDR3 RAM, 500 GB SSD - DVD-Writer (DVD-R/+R/-RW/-RAM),Windows 8 Pro"
+  },
+  "6c63166e-8a35-4bfe-a55d-f0f0b4d938f8": {
+    "id": "6c63166e-8a35-4bfe-a55d-f0f0b4d938f8",
+    "name": "ITelO Vault Net",
+    "category": "Accessories",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1020.jpg",
+    "price": 459,
+    "description": "Digital Organizer with State-of-the-Art Encryption for Storage and Network Communications"
+  },
+  "66e8c9e2-368f-41cb-8cd6-f988179a3b58": {
+    "id": "66e8c9e2-368f-41cb-8cd6-f988179a3b58",
+    "name": "ITelO Vault SAT",
+    "category": "Accessories",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1021.jpg",
+    "price": 149,
+    "description": "Digital Organizer with State-of-the-Art Encryption for Storage and Secure Stellite Link"
+  },
+  "e2c71afe-7544-434e-8271-d49390af039d": {
+    "id": "e2c71afe-7544-434e-8271-d49390af039d",
+    "name": "Comfort Easy",
+    "category": "Accessories",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1022.jpg",
+    "price": 1679,
+    "description": "32 GB Digital Assistant with high-resolution color screen"
+  },
+  "db506491-fc8d-485c-844e-11507737b5d8": {
+    "id": "db506491-fc8d-485c-844e-11507737b5d8",
+    "name": "Comfort Senior",
+    "category": "Accessories",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1023.jpg",
+    "price": 512,
+    "description": "64 GB Digital Assistant with high-resolution color screen and synthesized voice output"
+  },
+  "2e67372d-3bf3-46ef-988f-0fefdabdb319": {
+    "id": "2e67372d-3bf3-46ef-988f-0fefdabdb319",
+    "name": "Ergo Screen E-I",
+    "category": "Flat Screen Monitors",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1030.jpg",
+    "price": 230,
+    "description": "Optimum Hi-Resolution max. 1920 x 1080 @ 85Hz, Dot Pitch: 0.27mm"
+  },
+  "724d4d6d-886b-460c-8953-27bf20ff5513": {
+    "id": "724d4d6d-886b-460c-8953-27bf20ff5513",
+    "name": "Ergo Screen E-II",
+    "category": "Flat Screen Monitors",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1031.jpg",
+    "price": 285,
+    "description": "Optimum Hi-Resolution max. 1920 x 1200 @ 85Hz, Dot Pitch: 0.26mm"
+  },
+  "d4014162-e6dd-4294-b594-d645b4c20a77": {
+    "id": "d4014162-e6dd-4294-b594-d645b4c20a77",
+    "name": "Ergo Screen E-III",
+    "category": "Flat Screen Monitors",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1032.jpg",
+    "price": 345,
+    "description": "Optimum Hi-Resolution max. 2560 x 1440 @ 85Hz, Dot Pitch: 0.25mm"
+  },
+  "c0871886-3596-45df-9561-c92bd0c28826": {
+    "id": "c0871886-3596-45df-9561-c92bd0c28826",
+    "name": "Flat Basic",
+    "category": "Flat Screen Monitors",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1035.jpg",
+    "price": 399,
+    "description": "Optimum Hi-Resolution max. 1600 x 1200 @ 85Hz, Dot Pitch: 0.24mm"
+  },
+  "93bc5b9d-86dd-4659-86bd-07295d584233": {
+    "id": "93bc5b9d-86dd-4659-86bd-07295d584233",
+    "name": "Flat Future",
+    "category": "Flat Screen Monitors",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1036.jpg",
+    "price": 430,
+    "description": "Optimum Hi-Resolution max. 2048 x 1080 @ 85Hz, Dot Pitch: 0.26mm"
+  },
+  "9d87ca03-f9d7-4477-9b19-6d3a499aeade": {
+    "id": "9d87ca03-f9d7-4477-9b19-6d3a499aeade",
+    "name": "Flat XL",
+    "category": "Flat Screen Monitors",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1037.jpg",
+    "price": 1230,
+    "description": "Optimum Hi-Resolution max. 2016 x 1512 @ 85Hz, Dot Pitch: 0.24mm"
+  },
+  "74532492-ad90-474c-9761-f92cc5109a99": {
+    "id": "74532492-ad90-474c-9761-f92cc5109a99",
+    "name": "Laser Professional Eco",
+    "category": "Printers",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1040.jpg",
+    "price": 830,
+    "description": "Print 2400 dpi image quality color documents at speeds of up to 32 ppm (color) or 36 ppm (monochrome), letter/A4. Powerful 500 MHz processor, 512MB of memory"
+  },
+  "60927cc4-26da-4f05-9fc5-50c4a14d526a": {
+    "id": "60927cc4-26da-4f05-9fc5-50c4a14d526a",
+    "name": "Laser Basic",
+    "category": "Printers",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1041.jpg",
+    "price": 490,
+    "description": "Up to 22 ppm color or 24 ppm monochrome A4/letter, powerful 500 MHz processor and 128MB of memory"
+  },
+  "f730fece-f926-42cc-82c3-4cb1c2244216": {
+    "id": "f730fece-f926-42cc-82c3-4cb1c2244216",
+    "name": "Laser Allround",
+    "category": "Printers",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1042.jpg",
+    "price": 349,
+    "description": "Print up to 25 ppm letter and 24 ppm A4 color or monochrome, with Available first-page-out-time of less than 13 seconds for monochrome and less than 15 seconds for color"
+  },
+  "30f80474-a994-4b46-b7d9-9ed4e618e770": {
+    "id": "30f80474-a994-4b46-b7d9-9ed4e618e770",
+    "name": "Ultra Jet Super Color",
+    "category": "Printers",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1050.jpg",
+    "price": 139,
+    "description": "4800 dpi x 1200 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB, Ethernet"
+  },
+  "8ee58e48-e895-40d1-8804-730ccea9a99a": {
+    "id": "8ee58e48-e895-40d1-8804-730ccea9a99a",
+    "name": "Ultra Jet Mobile",
+    "category": "Printers",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1051.jpg",
+    "price": 99,
+    "description": "1000 dpi x 1000 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB - excellent dimensions for the small office"
+  },
+  "02781bfa-5a1c-42ad-8095-88825b363374": {
+    "id": "02781bfa-5a1c-42ad-8095-88825b363374",
+    "name": "Ultra Jet Super Highspeed",
+    "category": "Printers",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1052.jpg",
+    "price": 170,
+    "description": "4800 dpi x 1200 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB2.0, Ethernet"
+  },
+  "818ca06b-b887-4fea-853f-b4597fb63c98": {
+    "id": "818ca06b-b887-4fea-853f-b4597fb63c98",
+    "name": "Multi Print",
+    "category": "Multifunction Printers",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1055.jpg",
+    "price": 99,
+    "description": "1000 dpi x 1000 dpi - up to 16 ppm (mono) / up to 15 ppm (color)- capacity 80 sheets - scanner (216 x 297 mm, 1200dpi x 2400dpi)"
+  },
+  "0f310e58-2654-4f77-adb0-f6d560fc3e3a": {
+    "id": "0f310e58-2654-4f77-adb0-f6d560fc3e3a",
+    "name": "Multi Color",
+    "category": "Multifunction Printers",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1056.jpg",
+    "price": 119,
+    "description": "1200 dpi x 1200 dpi - up to 25 ppm (mono) / up to 24 ppm (color)- capacity 80 sheets - scanner (216 x 297 mm, 2400dpi x 4800dpi, high resolution)"
+  },
+  "fe3dd7ad-31e1-4715-bfff-1953f86578b4": {
+    "id": "fe3dd7ad-31e1-4715-bfff-1953f86578b4",
+    "name": "Cordless Mouse",
+    "category": "Mice",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1060.jpg",
+    "price": 9,
+    "description": "Cordless Optical USB Mice, Laptop, Color: Black, Plug&Play"
+  },
+  "06bf3327-1dc2-4db4-99a2-690032db82c7": {
+    "id": "06bf3327-1dc2-4db4-99a2-690032db82c7",
+    "name": "Speed Mouse",
+    "category": "Mice",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1061.jpg",
+    "price": 7,
+    "description": "Optical USB, PS/2 Mouse, Color: Blue, 3-button-functionality (incl. Scroll wheel)"
+  },
+  "fee015b2-3ad5-42c4-be63-6970acb0e20b": {
+    "id": "fee015b2-3ad5-42c4-be63-6970acb0e20b",
+    "name": "Track Mouse",
+    "category": "Mice",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1062.jpg",
+    "price": 11,
+    "description": "Optical USB Mouse, Color: Red, 5-button-functionality(incl. Scroll wheel), Plug&Play"
+  },
+  "74ba153e-6253-4c57-b68f-cbd9faac7d43": {
+    "id": "74ba153e-6253-4c57-b68f-cbd9faac7d43",
+    "name": "Ergonomic Keyboard",
+    "category": "Keyboards",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1063.jpg",
+    "price": 14,
+    "description": "Ergonomic USB Keyboard for Desktop, Plug&Play"
+  },
+  "84098a00-7525-451f-a99d-5fcabaf46383": {
+    "id": "84098a00-7525-451f-a99d-5fcabaf46383",
+    "name": "Internet Keyboard",
+    "category": "Keyboards",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1064.jpg",
+    "price": 16,
+    "description": "Corded Keyboard with special keys for Internet Usability, USB"
+  },
+  "f2f54d8a-d6f9-4691-a9e5-1cd81e3a6268": {
+    "id": "f2f54d8a-d6f9-4691-a9e5-1cd81e3a6268",
+    "name": "Media Keyboard",
+    "category": "Keyboards",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1065.jpg",
+    "price": 26,
+    "description": "Corded Ergonomic Keyboard with special keys for Media Usability, USB"
+  },
+  "80fb1029-9834-4b14-9c55-1a6054febcf9": {
+    "id": "80fb1029-9834-4b14-9c55-1a6054febcf9",
+    "name": "Mousepad",
+    "category": "Mousepads",
+    "image": "https://sapui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1066.jpg",
+    "price": 6,
+    "description": "Nice mouse pad with ITelO Logo"
+  }
+}
