@@ -1,6 +1,5 @@
 import { Order } from './orders.types';
 import { Product } from '../products/products.types';
-import { difference as _difference } from 'lodash';
 import { SecuredUser } from '../users/users.types';
 import { BadRequestException } from '@nestjs/common';
 
@@ -19,8 +18,10 @@ export class OrdersUtils {
 
     const orderProductIds = order.products.map((p) => p.productId);
     const existingProductIds = products.map((p) => p.id);
-    const allProductsExist =
-      _difference(existingProductIds, orderProductIds).length === 0;
+    const allProductsExist = orderProductIds.reduce(
+      (accum, orderId) => accum && existingProductIds.includes(orderId),
+      true,
+    );
     if (!allProductsExist) {
       throw new BadRequestException(
         'Products requested in the order could not be found',

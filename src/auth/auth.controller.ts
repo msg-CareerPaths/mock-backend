@@ -73,7 +73,7 @@ export class AuthController {
     description: 'Invalid authentication credentials.',
   })
   getProfile(@Request() req): Promise<SecuredUser> {
-    const user = req.user as Partial<SecuredUser>;
-    return this.usersService.getById(user.id);
+    const user = req.user;
+    return this.usersService.getById(user.userId);
   }
 }
