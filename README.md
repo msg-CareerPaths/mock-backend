@@ -1,7 +1,7 @@
 # Mock Backend
 ## Description 
 - This is mock backend for you to use if you do not have the one from the Spring Boot training.
-- The application uses [Nest.js](https://nestjs.com)
+- The application uses [Nest.js](https://nestjs.com) and a in-memory repository database
 
 
 ## Installation
